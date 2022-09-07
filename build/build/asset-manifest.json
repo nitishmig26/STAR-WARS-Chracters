@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/STAR-WARS-Chracters/static/css/main.4492fdd7.css",
+    "main.js": "/STAR-WARS-Chracters/static/js/main.04d3f45f.js",
+    "static/js/787.161ebaff.chunk.js": "/STAR-WARS-Chracters/static/js/787.161ebaff.chunk.js",
+    "index.html": "/STAR-WARS-Chracters/index.html",
+    "main.4492fdd7.css.map": "/STAR-WARS-Chracters/static/css/main.4492fdd7.css.map",
+    "main.04d3f45f.js.map": "/STAR-WARS-Chracters/static/js/main.04d3f45f.js.map",
+    "787.161ebaff.chunk.js.map": "/STAR-WARS-Chracters/static/js/787.161ebaff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4492fdd7.css",
+    "static/js/main.04d3f45f.js"
+  ]
+}
